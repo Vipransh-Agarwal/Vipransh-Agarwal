@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vipransh-Agarwal
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI-Based Projects
 - 📫 How to reach me aga.vishu21@gmail.com
